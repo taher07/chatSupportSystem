@@ -32,3 +32,4 @@ This app consists of 2 screens
   * The training of the system has been done in a method (as a minimilist approach), it can be done in a class with certain parameters for effective and efficient evaluation and it can be done in an individual file and the objects can be very well exported
   * A component can be created for training the bot and RegEx patterns can be passed as a prop to the component, this may help other developers to import the component and use it with ease
   * A better home page design can very well be implemented.
+  * Though this is a multiprocess system, the database isn't configured to keep a track of the users, it can as well be configured to do so, as of now it does keep a track of the messages along with necessary parameters
